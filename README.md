@@ -6,8 +6,35 @@ The Wellbeing Hub targets individuals new to mental health topics, caregivers an
 
 [Am I Responsive](https://ui.dev/amiresponsive?url=https://gerasoa.github.io/project-ci-draft/)
 
-![Texto Alternativo](https://github.com/gerasoa/project-ci-draft/blob/main/assets/images/screen-website.png)
+![screen website](https://github.com/gerasoa/project-ci-draft/blob/main/assets/images/screen-website.png)
 _
 
 
 # Features
+
+<!-- Navbar -->
+
+<!-- Inspirational Quotes -->
+
+## Beginer's Guide to Mental Health
+
+- [Bootstrap Cards](https://getbootstrap.com/docs/5.3/components/card/#example)
+
+
+<!-- Support Resources and Helplines -->
+
+<!-- Subscribe to Our Newsletter -->
+
+<!-- Articles External Resources -->
+
+<!-- Footer -->
+
+
+# References
+
+- [Sanctuary](https://www.sanctuary.co.uk/) 
+
+
+# Resources
+
+ - [Download Youtube Thumbnail](https://youtube-thumbnail-grabber.com/)
