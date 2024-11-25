@@ -15,6 +15,9 @@ _
 <!-- Navbar -->
 
 <!-- Inspirational Quotes -->
+- [Bootstrap Cards](https://getbootstrap.com/docs/5.3/components/card/#example)
+- [Bootstrap Crossfade](https://getbootstrap.com/docs/5.3/components/carousel/#crossfade)
+
 
 ## Beginer's Guide to Mental Health
 
@@ -33,7 +36,7 @@ _
 # References
 
 - [Sanctuary](https://www.sanctuary.co.uk/) 
-
+- [Everyday Speech](https://everydayspeech.com/)
 
 # Resources
 
