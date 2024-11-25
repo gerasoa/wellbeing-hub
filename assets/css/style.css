@@ -9,8 +9,7 @@ main div {
     background-position: center;
     height: 100vh;
     position: relative;
-  }
-  
+  }  
   .hero-section::before {
     content: "";
     position: absolute;
@@ -27,7 +26,6 @@ main div {
     z-index: 2;
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
   }
-
   .hero-section p {
     font-size: 2rem;
   }
@@ -39,27 +37,34 @@ main div {
     border: none;
     border-left: 5px solid #007bff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  }
-  
+  }  
   .quote-card .card-body {
     padding: 20px;
-  }
-  
+  }  
   .quote-card blockquote {
     font-style: italic;
     color: #555;
-  }
-  
+  }  
   .quote-card .blockquote-footer {
     font-size: 0.875rem;
     color: #6c757d;
-  }
-  
+  }  
   .carousel-fade .carousel-item {
     transition: opacity 0.5s ease-in-out;
     opacity: 0;
-  }
-  
+  }  
   .carousel-fade .carousel-item.active {
     opacity: 1;
+  }
+
+  /* External Resources */
+  .card-body {
+    padding: 1rem;
+  }  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }  
+  .card-text {
+    margin-bottom: 1rem;
   }
