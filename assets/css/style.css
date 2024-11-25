@@ -2,6 +2,37 @@ main div {
     /* border: 1px solid black; */
 }
 
+/* Hero section */
+.hero-section {
+    background-image: url('../images/hero.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+  }
+  
+  .hero-section::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(219, 170, 170, 0.5); /* Ajuste a opacidade conforme necessário */
+    z-index: 1;
+  }
+  
+  .hero-section .container {
+    position: relative;
+    z-index: 2;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  }
+
+  .hero-section p {
+    font-size: 2rem;
+  }
+
+/* Quote card */
 .quote-card {
     /* background-color: #f8f9fa; */
     background-color: yellow;
