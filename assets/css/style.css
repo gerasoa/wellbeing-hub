@@ -1,3 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+:root {
+  --primary-font: "Lato", sans-serif;
+  --secondary-font: "Playfair Display", serif;    
+  --tertiary-font: "Dancing Script", cursive;
+  /* main elements like headers, primary action buttons, and important links */
+  --primary-color: #007bff; /* Calm blue */
+
+  /* supporting elements like secondary buttons, less important links, and borders */
+  --secondary-color: #28a745; /* Balanced green */
+
+  --tertiary-color: #6f42c1; /* Introspective purple */
+  --background-color: #f8f9fa; /* Light gray for the background */
+  --text-color: #343a40; /* Dark gray for the text */
+}
+
+/* Global */
+body {
+  font-family: var(--primary-font);
+  background-color: var(--background-color);
+  color: var(--text-color);
+  size: 1rem;
+  padding-top: 56px;
+}
+h2 {
+  font-family: var(--secondary-font);
+  color: var(--primary-color); 
+  margin-bottom: 40px;
+  text-align: center;
+  font-size: 1.5rem;
+  font-optical-sizing: auto;
+}
+
 main div {
     /* border: 1px solid black; */
 }
