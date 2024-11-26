@@ -14,8 +14,29 @@ The Wellbeing Hub targets individuals new to mental health topics, caregivers an
                   
 _
 
-
 # Features
+
+## Navbar
+The Wellbeing Hub incorporates a responsive navbar that ensures seamless navigation across all sections of the website. This navbar is consistently visible on every page of the project, providing users with easy access to various sections such as the Beginner’s Guide, Support Resources and Helplines, and External Resources.
+
+The navbar is constructed using the [Bootstrap Nav component](https://getbootstrap.com/docs/5.3/components/navbar/#nav), which ensures that it is fully responsive and adapts to different screen sizes. This provides an optimal user experience on both desktop and mobile devices.
+
+![navbad image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/navbar.png)
+
+## Hero section
+
+## Beginner’s Guide to Mental Health section
+
+## Positive Affirmations section
+
+## Support Resources and Helplines section
+
+## Subscribe section
+
+## External Resources
+
+## Footer
+
 
 <!-- Navbar -->
 - [Bootstrap Nav](https://getbootstrap.com/docs/5.3/components/navbar/#nav)
@@ -47,3 +68,5 @@ _
 # Resources
 
  - [Download Youtube Thumbnail](https://youtube-thumbnail-grabber.com/)
+
+

@@ -59,11 +59,11 @@ body .btn:hover {
   border-color: white;      
 }
 .navbar-brand{
-  /* font-family: var(--tertiary-font); */
+  /* font-family: var(--tertiary-font);  */
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: 600;
   font-style: normal;
-  font-size: 20px;
+  /* font-size: 40px; */
   color: white;
 }
 
