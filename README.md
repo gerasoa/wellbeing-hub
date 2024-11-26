@@ -66,7 +66,14 @@ The Support Resources and Helplines section of the Wellbeing Hub is designed to 
 - [Bootstrap Card Component](https://getbootstrap.com/docs/5.3/components/card/#example): For a consistent and visually appealing layout.
 
 ![support resources image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/support-resources.png)
+
 ## Subscribe section
+The Subscribe section of the Wellbeing Hub is designed to encourage users to stay connected and informed by subscribing to the newsletter. This section targets individuals interested in receiving regular updates, self-help seekers, caregivers, family members, and general learners. The purpose of this section is to provide users with ongoing support, resources, and information related to mental health and well-being.
+
+### Technologies Used:
+- [Bootstrap Form Component](https://getbootstrap.com/docs/5.3/forms/form-control/): For creating a user-friendly and responsive subscription form.
+
+![subscribe section image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/subscribe.png)
 
 ## External Resources
 
