@@ -27,7 +27,6 @@ The navbar is designed for individuals new to mental health topics, caregivers, 
 ![navbad image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/navbar.png)
 
 ## Hero section
-
 The Hero section of the Wellbeing Hub is designed to create a strong visual impact and engage users from the moment they land on the page. This section targets individuals new to mental health topics, caregivers, family members, self-help seekers, and general learners. The purpose of this section is to capture the attention of users and guide them towards exploring the Wellbeing Hub further.
 
 ### Technologies Used:
@@ -38,7 +37,6 @@ The Hero section of the Wellbeing Hub is designed to create a strong visual impa
 ![navbad image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/hero-doc.png)
 
 ## Beginner’s Guide to Mental Health section
-
 The Beginner’s Guide to Mental Health section of the Wellbeing Hub is designed to provide users with introductory information on mental health. This section targets individuals new to mental health topics, caregivers, family members, self-help seekers, and general learners. The guide offers valuable resources and practical tips to help users understand and manage mental health effectively.
 
 ### Technologies Used:
@@ -76,8 +74,22 @@ The Subscribe section of the Wellbeing Hub is designed to encourage users to sta
 ![subscribe section image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/subscribe.png)
 
 ## External Resources
+The External Resources section of the Wellbeing Hub is designed to provide users with additional information and support from reputable sources. This section targets individuals new to mental health topics, caregivers, family members, self-help seekers, and general learners. The purpose of this section is to offer users access to a wide range of external resources that can further enhance their understanding and management of mental health.
+
+### Technologies Used:
+- [Bootstrap List Group](https://getbootstrap.com/docs/5.3/components/list-group/): For a structured and organized presentation of external resources.
+- [Bootstrap Card Component](https://getbootstrap.com/docs/5.3/components/card/#example): For a consistent and visually appealing layout.
+- [Bootstrap Button Component](https://getbootstrap.com/docs/5.3/components/buttons/): For easy navigation to external links.
+
+![subscribe section image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/external-resources.png)
 
 ## Footer
+
+
+
+
+
+
 
 
 <!-- Navbar -->
