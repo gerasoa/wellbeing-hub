@@ -111,10 +111,19 @@ The fonts used in this project play a crucial role in enhancing the overall user
 
 - [Playfair Display](https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap): A serif font that adds a classic and sophisticated feel, used for subheadings and emphasis.
 
-These fonts are imported from Google Fonts and are chosen to create a visually appealing and accessible design that aligns with the project's calming and supportive theme.
 
 ## Wireframes
+These low-fidelity wireframes were developed using [Balsamiq](https://balsamiq.com/) to outline the primary feature layout, aiding in the user experience design process. By leveraging the [Bootstrap](https://getbootstrap.com/) framework and its components, we can create a page that is both intuitive and easy to navigate, while ensuring well-organized content and a responsive design.
 
+
+Mobile Wireframe
+![footer image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/mobile.png)
+
+Tablet Wireframe
+![footer image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/tablet.png)
+
+Desktop Wireframe
+![footer image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/desktop.png)
 
 
 
