@@ -124,19 +124,26 @@ These low-fidelity wireframes were developed using [Balsamiq](https://balsamiq.c
 
 Mobile Wireframe
 
-![footer image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/mobile.png)
+![Mobile wireframe](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/mobile.png)
 
 Tablet Wireframe
 
-![footer image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/tablet.png)
+![Tablet wireframe](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/tablet.png)
 
 Desktop Wireframe
 
-![footer image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/desktop.png)
+![Desktop wireframe](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/desktop.png)
 
 ---
 # Testing
 
+Testing and validation os the website was carried out throughout the course of the project.
+
+This included regular debugging and testing using the Dev Tools as ptovided within Chrome Browser.
+
+[The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/validator.html.en)
+
+![CSS Validator](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/css-validator.png)
 
 ---
 ---
