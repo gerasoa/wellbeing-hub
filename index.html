@@ -11,7 +11,7 @@
 </head>
 
 <body class="d-flex flex-column min-vh-100">
-  <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
+  <nav class="navbar navbar-expand-lg fixed-top">
     <div class="container-fluid">
       <a class="navbar-brand" href="#hero">Wellbeing Hub</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -193,20 +193,6 @@
       </div>
     </section>
 
-    <!-- Subscribe to Our Newsletter -->
-    <section class="section">
-      <div class="container">
-        <h2 class="text-center mb-4">Subscribe to Our Newsletter</h2>
-        <div class="row justify-content-center">
-          <div class="col-md-6 text-center">
-            <a href="subscribe.html" class="btn btn-success">
-              Subscribe
-            </a>
-          </div>
-        </div>
-      </div>
-    </section>
-
     <!-- Support Resources and Helplines -->
     <section id="helplines" class="section">
       <div class="container">
@@ -236,8 +222,8 @@
               <div class="card h-100">
                 <div class="row g-0 align-items-center">
                   <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/shout.png" class="img-fluid rounded-start mt-3" alt="Shout Crisis Text Line Logo"
-                      width="90px">
+                    <img src="assets/images/shout.png" class="img-fluid rounded-start mt-3"
+                      alt="Shout Crisis Text Line Logo" width="90px">
                   </div>
                   <div class="col-md-8">
                     <div class="card-body">
@@ -272,6 +258,20 @@
           </div>
         </div>
       </div>
+      </div>
+    </section>
+
+    <!-- Subscribe to Our Newsletter -->
+    <section class="section">
+      <div class="container">
+        <h2 class="text-center mb-4">Subscribe to Our Newsletter</h2>
+        <div class="row justify-content-center">
+          <div class="col-md-6 text-center">
+            <a href="subscribe.html" class="btn btn-success">
+              Subscribe
+            </a>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -352,7 +352,7 @@
 
   </main>
 
-  <footer class="bg-light text-center text-lg-start mt-auto"></footer>
+  <footer id="footer-page" class="text-center text-lg-start mt-auto">
   <div class="container p-4">
     <div class="row">
       <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
@@ -365,16 +365,16 @@
         <h5 class="text-uppercase">Links</h5>
         <ul class="list-unstyled mb-0">
           <li>
-            <a href="#!" class="text-dark">Home</a>
+            <a href="#!" class="text-">Home</a>
           </li>
           <li>
-            <a href="#!" class="text-dark">Features</a>
+            <a href="#!">Features</a>
           </li>
           <li>
-            <a href="#!" class="text-dark">Pricing</a>
+            <a href="#!">Pricing</a>
           </li>
           <li>
-            <a href="#!" class="text-dark">Contact</a>
+            <a href="#!">Contact</a>
           </li>
         </ul>
       </div>
@@ -382,47 +382,45 @@
         <h5 class="text-uppercase">Follow Us</h5>
         <ul class="list-unstyled mb-0">
           <li>
-            <a href="#!" class="text-dark">Facebook</a>
+            <a href="#!">Facebook</a>
           </li>
           <li>
-            <a href="#!" class="text-dark">Twitter</a>
+            <a href="#!">Twitter</a>
           </li>
           <li>
-            <a href="#!" class="text-dark">Instagram</a>
+            <a href="#!">Instagram</a>
           </li>
           <li>
-            <a href="#!" class="text-dark">LinkedIn</a>
+            <a href="#!">LinkedIn</a>
           </li>
         </ul>
       </div>
     </div>
   </div>
-  <div class="text-center p-3 bg-dark text-white">
-    © 2023 Wellbeing Hub
-  </div>
+  
   </footer>
 
   <!-- JavaScript code to ensure the Bootstrap mobile navbar collapses when navigating to in-page links -->
   <script>
     document
-        .querySelectorAll(".navbar-collapse .nav-link")
-        .forEach((link) => {
-            link.addEventListener("click", function (e) {
-                let section = document.querySelector(e.target.getAttribute("href"));
-                if (section) {
-                    e.preventDefault(); // Prevent default anchor click behavior
-                    let navbarHeight = document.querySelector(".navbar-toggler").offsetHeight;
-                    window.scroll({
-                        top: section.offsetTop - navbarHeight, // Adjust for navbar height
-                        behavior: "smooth",
-                    });
-                    document
-                        .querySelector(".navbar-collapse")
-                        .classList.remove("show"); // Collapse navbar
-                }
+      .querySelectorAll(".navbar-collapse .nav-link")
+      .forEach((link) => {
+        link.addEventListener("click", function (e) {
+          let section = document.querySelector(e.target.getAttribute("href"));
+          if (section) {
+            e.preventDefault(); // Prevent default anchor click behavior
+            let navbarHeight = document.querySelector(".navbar-toggler").offsetHeight;
+            window.scroll({
+              top: section.offsetTop - navbarHeight, // Adjust for navbar height
+              behavior: "smooth",
             });
+            document
+              .querySelector(".navbar-collapse")
+              .classList.remove("show"); // Collapse navbar
+          }
         });
-</script>
+      });
+  </script>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">

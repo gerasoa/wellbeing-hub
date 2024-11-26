@@ -21,7 +21,7 @@ body {
   background-color: var(--background-color);
   color: var(--text-color);
   size: 1rem;
-  padding-top: 56px;
+  padding-top: 40px;
 }
 h2 {
   font-family: var(--secondary-font);
@@ -45,13 +45,54 @@ body .btn:hover {
   opacity: 1;
 }
 
-main div {
-    /* border: 1px solid black; */
+/* Navbar */
+.navbar {
+  border: 2px solid var(--primary-color); 
+  background-color: var(--primary-color);  
+} 
+#navbarNav * {
+  color: white;      
+} 
+.navbar-toggler-icon {
+  border-color: white;      
+}
+.navbar-brand{
+  /* font-family: var(--tertiary-font); */
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: white;
 }
 
 .section {
-  padding-top: 40px; /*prevent navbar from overlapping content */
+  padding-top: 20px; /*prevent navbar from overlapping content */
 }
+
+#footer-page { 
+  background-color: var(--primary-color);
+  color: whrite;
+  padding: 20px 0;
+  text-align: center;
+  /* position: fixed; */
+  bottom: 0;
+  width: 100%;
+}
+
+#footer-page {
+  color: white;
+}
+
+#footer-page a {
+  color: white;
+  text-decoration: none;
+}
+
+#footer-page a:hover {
+  color: #ddd; /* Cor ao passar o mouse, opcional */
+}
+
+
 
 /* Hero section */
 .hero-section {
@@ -84,9 +125,9 @@ main div {
 /* Quote card */
 .quote-card {
     /* background-color: #f8f9fa; */
-    background-color: yellow;
+    background-color: #D6EAFF;
     border: none;
-    border-left: 5px solid #007bff;
+    /* border-left: 5px solid #007bff; */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }  
   .quote-card .card-body {
