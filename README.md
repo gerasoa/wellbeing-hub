@@ -56,8 +56,14 @@ The Positive Affirmations section of the Wellbeing Hub is designed to uplift and
 - [Bootstrap Carousel](https://getbootstrap.com/docs/5.3/components/carousel/): To create a dynamic and engaging display of affirmations.
 
 ![positive affirmations image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/positive-affirmations.png)
-## Support Resources and Helplines section
 
+## Support Resources and Helplines section
+The Support Resources and Helplines section of the Wellbeing Hub is designed to provide users with access to essential support services and helplines. This section targets individuals experiencing mental health challenges, caregivers, family members, and anyone seeking immediate assistance or guidance. The purpose of this section is to ensure that users have quick and easy access to professional help and support when needed.
+
+### Technologies Used:
+- [Bootstrap List Group](https://getbootstrap.com/docs/5.3/components/list-group/): For a structured and organized presentation of support resources and helplines.
+
+![support resources image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/support-resources.png)
 ## Subscribe section
 
 ## External Resources
