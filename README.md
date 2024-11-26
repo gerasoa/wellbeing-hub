@@ -50,7 +50,13 @@ The Beginner’s Guide to Mental Health section of the Wellbeing Hub is designed
 ![navbad image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/beginners-guide.png)
 
 ## Positive Affirmations section
+The Positive Affirmations section of the Wellbeing Hub is designed to uplift and inspire users by providing them with positive and encouraging statements. This section targets individuals seeking motivation, self-help seekers, and anyone looking to improve their mental well-being through positive reinforcement. The affirmations included in this section are sourced from various reputable websites on the internet, ensuring a diverse and comprehensive collection of uplifting messages.
 
+### Technologies Used:
+- [Bootstrap Card Component](https://getbootstrap.com/docs/5.3/components/card/#example): For a consistent and visually appealing layout.
+- [Bootstrap Carousel](https://getbootstrap.com/docs/5.3/components/carousel/): To create a dynamic and engaging display of affirmations.
+
+![positive affirmations image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/positive-affirmations.png)
 ## Support Resources and Helplines section
 
 ## Subscribe section
