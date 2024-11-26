@@ -63,6 +63,8 @@ The Support Resources and Helplines section of the Wellbeing Hub is designed to 
 ### Technologies Used:
 - [Bootstrap List Group](https://getbootstrap.com/docs/5.3/components/list-group/): For a structured and organized presentation of support resources and helplines.
 
+- [Bootstrap Card Component](https://getbootstrap.com/docs/5.3/components/card/#example): For a consistent and visually appealing layout.
+
 ![support resources image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/support-resources.png)
 ## Subscribe section
 
