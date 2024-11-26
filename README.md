@@ -17,6 +17,7 @@ _
 # Features
 
 <!-- Navbar -->
+- [Bootstrap Nav](https://getbootstrap.com/docs/5.3/components/navbar/#nav)
 
 <!-- Inspirational Quotes -->
 - [Bootstrap Cards](https://getbootstrap.com/docs/5.3/components/card/#example)
