@@ -84,7 +84,9 @@ The External Resources section of the Wellbeing Hub is designed to provide users
 ![subscribe section image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/external-resources.png)
 
 ## Footer
+The Footer section of the Wellbeing Hub is designed to provide users with easy access to important links and information. This section targets all users of the Wellbeing Hub, including individuals new to mental health topics, caregivers, family members, self-help seekers, and general learners. The purpose of this section is to offer quick navigation to various sections of the website and to connect users with the Wellbeing Hub's social media profiles for ongoing support and updates.
 
+![footer image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/footer.png)
 
 
 
