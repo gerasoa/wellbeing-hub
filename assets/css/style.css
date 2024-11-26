@@ -22,7 +22,6 @@ body {
   font-family: var(--primary-font);
   background-color: var(--background-color);
   color: var(--text-color);
-  size: 1rem;
   padding-top: 40px;
 }
 h2 {
@@ -31,7 +30,7 @@ h2 {
   margin-bottom: 40px;
   text-align: center;
   font-size: 1.5rem;
-  font-optical-sizing: auto;
+  
 }
 body .btn { 
   background-color: var(--tertiary-color);
@@ -62,7 +61,6 @@ body .btn:hover {
 }
 .navbar-brand{
   /* font-family: var(--tertiary-font);  */
-  font-optical-sizing: auto;
   font-weight: 600;
   font-style: normal;
   /* font-size: 40px; */
@@ -75,7 +73,7 @@ body .btn:hover {
 
 #footer-page { 
   background-color: var(--primary-color);
-  color: whrite;
+  color: white;
   padding: 20px 0;
   text-align: center;
   /* position: fixed; */
@@ -126,7 +124,6 @@ body .btn:hover {
   .hero-section .container h1{
     font-family: var(--secondary-font);
     color: white;
-    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
     font-size: 2rem;
