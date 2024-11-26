@@ -111,6 +111,11 @@ The fonts used in this project play a crucial role in enhancing the overall user
 
 - [Playfair Display](https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap): A serif font that adds a classic and sophisticated feel, used for subheadings and emphasis.
 
+## Colors
+- **Primary Color (Calming Blue - #007bff)**: Used for primary elements such as buttons, links, and highlights.
+- **Tertiary Color (Introspective Purple - #6f42c1)**: Used for tertiary elements to add creativity and emphasis.
+- **Background Color (Light Gray - #f8f9fa)**: Used for the overall background to keep the design clean and minimalistic.
+- **Text Color (Dark Gray - #343a40)**: Used for the main body text to ensure readability and contrast against the light background.
 
 ## Wireframes
 These low-fidelity wireframes were developed using [Balsamiq](https://balsamiq.com/) to outline the primary feature layout, aiding in the user experience design process. By leveraging the [Bootstrap](https://getbootstrap.com/) framework and its components, we can create a page that is both intuitive and easy to navigate, while ensuring well-organized content and a responsive design.

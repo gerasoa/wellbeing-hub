@@ -4,13 +4,15 @@
   --primary-font: "Lato", sans-serif;
   --secondary-font: "Playfair Display", serif;    
   --tertiary-font: "Dancing Script", cursive;
+
   /* main elements like headers, primary action buttons, and important links */
   --primary-color: #007bff; /* Calm blue */
-
+  
   /* supporting elements like secondary buttons, less important links, and borders */
-  --secondary-color: #28a745; /* Balanced green */
-
+  /* --secondary-color: #28a745; Balanced green */
+  
   --tertiary-color: #6f42c1; /* Introspective purple */
+  
   --background-color: #f8f9fa; /* Light gray for the background */
   --text-color: #343a40; /* Dark gray for the text */
 }
