@@ -198,6 +198,11 @@ By following these steps, you will be able to clone and run the Wellbeing Hub ap
 
 # Features left to implement
 
+A mental health quiz feature can be added to help users assess their mental well-being. This interactive quiz will provide personalized feedback and resources based on the user's responses.
+
+A community forum can be implemented to allow users to share their experiences, ask questions, and support each other. This feature will foster a sense of community and provide a platform for peer support.
+
+A dedicated section for meditation and mindfulness resources can be added. This section will include guided meditation videos, mindfulness exercises, and tips for incorporating mindfulness into daily life.
 
 ---
 
