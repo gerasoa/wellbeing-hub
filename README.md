@@ -145,6 +145,13 @@ This included regular debugging and testing using the Dev Tools as ptovided with
 
 ![CSS Validator](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/css-validator.png)
 
+
+[Nu Html Checker](https://validator.w3.org/nu/)
+
+![CSS Validator](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/html-checker.png)
+
+
+
 ---
 ---
 
