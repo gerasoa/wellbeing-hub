@@ -12,6 +12,8 @@ The Wellbeing Hub targets individuals new to mental health topics, caregivers an
 
 ![screen website](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/am-i-responsive.png)
                  
+# About this document
+The creation of this README.md document was a collaborative effort between GitHub Copilot and the development team. By leveraging Copilot's capabilities and conducting thorough research on wellbeing and mental health, the team was able to produce a comprehensive and informative document. Additionally, Copilot's assistance in debugging the application ensured a faster and more efficient error resolution process, contributing to the project's success.
 
 # Features
 
