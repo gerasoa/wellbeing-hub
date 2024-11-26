@@ -37,8 +37,17 @@ The combination of these elements creates an inviting and engaging Hero section 
 
 ![navbad image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/hero-doc.png)
 
-
 ## Beginner’s Guide to Mental Health section
+
+The Beginner’s Guide to Mental Health section of the Wellbeing Hub is designed to provide users with introductory information on mental health. This section utilises several key components to achieve its purpose:
+
+Bootstrap Card Component: Each piece of content in this section is presented using the [Bootstrap Card Documentation](https://getbootstrap.com/docs/5.3/components/card/#example). This ensures a consistent and visually appealing layout for all the information. Each card contains a brief description of the video, providing users with an overview of the content before they decide to watch it.
+
+Action Button: Each card includes a [Bootstrap Button](https://getbootstrap.com/docs/5.3/components/buttons/) that directs users to additional resources or videos. This button is styled to be visually appealing and encourages users to explore further.
+
+The combination of these elements ensures that the Beginner’s Guide to Mental Health section is both informative and engaging, providing users with valuable resources in a well-organised format.
+
+![navbad image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/beginners-guide.png)
 
 ## Positive Affirmations section
 
