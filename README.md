@@ -51,7 +51,7 @@ The Positive Affirmations section of the Wellbeing Hub is designed to uplift and
 
 ### Technologies Used:
 - [Bootstrap Card Component](https://getbootstrap.com/docs/5.3/components/card/#example): For a consistent and visually appealing layout.
-- [Bootstrap Carousel](https://getbootstrap.com/docs/5.3/components/carousel/): To create a dynamic and engaging display of affirmations.
+- [Bootstrap Carousel](https://getbootstrap.com/docs/5.3/components/carousel/#crossfade): To create a dynamic and engaging display of affirmations.
 
 ![positive affirmations image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/positive-affirmations.png)
 
@@ -91,29 +91,6 @@ The Footer section of the Wellbeing Hub is designed to provide users with easy a
 
 
 
-
-
-
-<!-- Navbar -->
-- [Bootstrap Nav](https://getbootstrap.com/docs/5.3/components/navbar/#nav)
-
-<!-- Inspirational Quotes -->
-- [Bootstrap Cards](https://getbootstrap.com/docs/5.3/components/card/#example)
-- [Bootstrap Crossfade](https://getbootstrap.com/docs/5.3/components/carousel/#crossfade)
-
-
-## Beginer's Guide to Mental Health
-
-- [Bootstrap Cards](https://getbootstrap.com/docs/5.3/components/card/#example)
-
-
-<!-- Support Resources and Helplines -->
-
-<!-- Subscribe to Our Newsletter -->
-
-<!-- Articles External Resources -->
-
-<!-- Footer -->
 
 
 # References
