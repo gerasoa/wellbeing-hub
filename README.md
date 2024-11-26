@@ -150,6 +150,11 @@ This included regular debugging and testing using the Dev Tools as ptovided with
 
 ![CSS Validator](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/html-checker.png)
 
+![CSS Validator](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/html-subscribe.png)
+
+![CSS Validator](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/html-success.png)
+
+
 ---
 # Deploy
 ## Cloning and Running the Application
