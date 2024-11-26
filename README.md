@@ -1,3 +1,7 @@
+<p align="center">
+| <a href="https://gerasoa.github.io/wellbeing-hub/" target="_blank">Live Project</a> |
+</p>
+
 # Introduction
 
 The Wellbeing Hub is designed to inform individuals about mental health, offering insights on how to recognize common issues and manage stress for themselves or others. This welcoming webpage aims to provide accessible, beginner-friendly information on mental health within a supportive and organized layout.
