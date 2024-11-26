@@ -11,8 +11,7 @@ The Wellbeing Hub targets individuals new to mental health topics, caregivers an
 [Am I Responsive](https://ui.dev/amiresponsive?url=https://gerasoa.github.io/project-ci-draft/)
 
 ![screen website](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/am-i-responsive.png)
-                  
-_
+                 
 
 # Features
 
@@ -88,21 +87,37 @@ The Footer section of the Wellbeing Hub is designed to provide users with easy a
 
 ![footer image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/footer.png)
 
+# UX/UI
+The Wellbeing Hub's UX/UI design uses a calming blue (#007bff) for primary elements to evoke tranquility, a balanced green (#28a745) for secondary elements to symbolize growth, and an introspective purple (#6f42c1) for tertiary elements to add creativity. The light gray background (#f8f9fa) keeps the design clean, while dark gray text (#343a40) ensures readability. Images are strategically placed to capture attention and enhance engagement, making the site inviting and easy to navigate.
+
+## User Stories
+
+As a general learner, I want to see a welcoming message with clear CTAs so that I can easily navigate the site.
+
+As a site visitor, I want a clear and responsive navigation menu, so that I can quickly find and access all the main sections of the website.
+
+As a site visitor, I want a footer with quick links and contact information, so that I can easily navigate to important pages or find help without scrolling through the entire site.
+
+As a caregiver, I want access to helplines and support services so that I can help loved ones.
+
+As an individual new to mental health topics, I want a section explaining common challenges so that I can understand the basics.
 
 
 
 
 
-# References
+---
+---
+---
+
+# Crediting sources
 - [Sanctuary](https://www.sanctuary.co.uk/) 
 - [Everyday Speech](https://www.youtube.com/@EverydaySpeech)
-
-# Resources
 - [Sanctuary](https://www.sanctuary.co.uk/): For additional resources and support.
 - [YouTube](https://www.youtube.com/): For sourcing videos and thumbnails.
 - [NHS - Five Steps to Mental Wellbeing](https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/): For practical steps to improve mental well-being.
 
-## Technologies Used
+# Technologies Used
 - [Bootstrap](https://getbootstrap.com/): For responsive design and various components such as Navbar, Cards, Buttons, Carousel, List Group, and Forms.
 - [JavaScript](https://www.w3schools.com/js/): For enhancing interactivity and functionality.
 - [Unsplash](https://unsplash.com/): For high-quality, freely usable background images.
