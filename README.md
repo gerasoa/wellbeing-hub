@@ -134,9 +134,10 @@ Desktop Wireframe
 
 ![footer image](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/desktop.png)
 
-
-
 ---
+# Testing
+
+
 ---
 ---
 
@@ -148,16 +149,32 @@ Desktop Wireframe
 - [NHS - Five Steps to Mental Wellbeing](https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/): For practical steps to improve mental well-being.
 
 # Technologies Used
-- [Bootstrap](https://getbootstrap.com/): For responsive design and various components such as Navbar, Cards, Buttons, Carousel, List Group, and Forms.
-- [JavaScript](https://www.w3schools.com/js/): For enhancing interactivity and functionality.
-- [Unsplash](https://unsplash.com/): For high-quality, freely usable background images.
-- [YouTube Thumbnail Grabber](https://youtube-thumbnail-grabber.com): For obtaining video thumbnails.
-- [Font Awesome](https://fontawesome.com/): For scalable vector icons that can be customized with CSS.
-- [Google Fonts](https://fonts.google.com/): For web fonts to enhance typography.
+## Tools
+- [Balsamiq](https://balsamiq.com/): For creating wireframes and planning the layout of the user interface.
 - [GitHub Pages](https://pages.github.com/): For hosting the live project.
+- [Snipping Tool](https://support.microsoft.com/en-us/windows/open-snipping-tool-and-take-a-screenshot-1c6e9620-5c22-4a25-802c-3e1d7e7de9b1): For capturing screenshots to include in documentation and presentations.
+- [W3C Markup Validation Service](https://validator.w3.org/#validate_by_uri): For validating HTML and ensuring it adheres to web standards.
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/): For validating CSS and ensuring it adheres to web standards.
+
+## Programming Languages
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5): For structuring the content on the web pages.
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS): For styling the web pages.
-- [Balsamiq](https://balsamiq.com/): For creating wireframes and planning the layout of the user interface.
-- [GitHub Copilot](https://github.com/features/copilot/): For AI-powered code suggestions and assistance.
-- [Snipping Tool](https://support.microsoft.com/en-us/windows/open-snipping-tool-and-take-a-screenshot-1c6e9620-5c22-4a25-802c-3e1d7e7de9b1): For capturing screenshots to include in documentation and presentations.
+- [JavaScript](https://www.w3schools.com/js/): For enhancing interactivity and functionality.
 
+## Frameworks and Libraries
+- [Bootstrap](https://getbootstrap.com/): For responsive design and various components such as Navbar, Cards, Buttons, Carousel, List Group, and Forms.
+- [Font Awesome](https://fontawesome.com/): For scalable vector icons that can be customized with CSS.
+- [Google Fonts](https://fonts.google.com/): For web fonts to enhance typography.
+
+## Resources
+- [Unsplash](https://unsplash.com/): For high-quality, freely usable background images.
+- [YouTube Thumbnail Grabber](https://youtube-thumbnail-grabber.com): For obtaining video thumbnails.
+
+## AI Assistance
+- [GitHub Copilot](https://github.com/features/copilot/): For AI-powered code suggestions and assistance.
+
+## Development Tools
+- [GitHub](https://github.com/): For version control and collaboration.
+- [GitHub Copilot](https://github.com/features/copilot/): For AI-powered code suggestions and assistance.
+- [Gitpod](https://www.gitpod.io/): For cloud-based development environments.
+- [Visual Studio Code](https://code.visualstudio.com/): For a powerful and flexible code editor.
