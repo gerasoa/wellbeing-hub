@@ -33,6 +33,7 @@ h2 {
 }
 body .btn { 
   background-color: var(--tertiary-color);
+  border-color: var(--tertiary-color);
   color: white;
   opacity: 0.7;
   padding: 10px 20px; /* Adjust the size of the button */
@@ -41,6 +42,7 @@ body .btn {
 }
 body .btn:hover {
   background-color: var(--tertiary-color);
+  border-color: var(--tertiary-color);
   color: white;
   opacity: 1;
 }
@@ -92,8 +94,6 @@ body .btn:hover {
   color: #ddd; /* Cor ao passar o mouse, opcional */
 }
 
-
-
 /* Hero section */
 .hero-section {
     background-image: url('../images/hero.jpg');
@@ -121,7 +121,14 @@ body .btn:hover {
   .hero-section p {
     font-size: 2rem;
   }
-
+  .hero-section .container h1{
+    font-family: var(--secondary-font);
+    color: white;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem;
+}
 /* Quote card */
 .quote-card {
     /* background-color: #f8f9fa; */
@@ -159,4 +166,8 @@ body .btn:hover {
   }  
   .card-text {
     margin-bottom: 1rem;
+  }
+
+  #subscribe {
+    background-color: #D6EAFF;
   }
