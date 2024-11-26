@@ -10,7 +10,8 @@ The Wellbeing Hub targets individuals new to mental health topics, caregivers an
 
 [Am I Responsive](https://ui.dev/amiresponsive?url=https://gerasoa.github.io/project-ci-draft/)
 
-![screen website](https://github.com/gerasoa/project-ci-draft/blob/main/assets/images/docs/am-i-responsive.png)
+![screen website](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/am-i-responsive.png)
+                  
 _
 
 
