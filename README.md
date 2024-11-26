@@ -102,6 +102,18 @@ As a caregiver, I want access to helplines and support services so that I can he
 
 As an individual new to mental health topics, I want a section explaining common challenges so that I can understand the basics.
 
+## Fonts
+The fonts used in this project play a crucial role in enhancing the overall user experience and readability. The selected fonts are:
+
+- [Dancing Script](https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap): Adds a touch of elegance and creativity, used for headings and special sections to capture attention.
+
+- [Lato](https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap): A versatile and clean sans-serif font, used for body text to ensure readability and a modern look.
+
+- [Playfair Display](https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap): A serif font that adds a classic and sophisticated feel, used for subheadings and emphasis.
+
+These fonts are imported from Google Fonts and are chosen to create a visually appealing and accessible design that aligns with the project's calming and supportive theme.
+
+## Wireframes
 
 
 
