@@ -2,6 +2,44 @@
 | <a href="https://gerasoa.github.io/wellbeing-hub/" target="_blank">Live Project</a> |
 </p>
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [About this document](#about-this-document)
+- [Features](#features)
+    - [Navbar](#navbar)
+    - [Hero section](#hero-section)
+    - [Beginner’s Guide to Mental Health section](#beginners-guide-to-mental-health-section)
+    - [Positive Affirmations section](#positive-affirmations-section)
+    - [Support Resources and Helplines section](#support-resources-and-helplines-section)
+    - [Subscribe section](#subscribe-section)
+    - [External Resources](#external-resources)
+    - [Footer](#footer)
+- [UX/UI](#uxui)
+    - [User Stories](#user-stories)
+    - [Fonts](#fonts)
+    - [Colors](#colors)
+    - [Wireframes](#wireframes)
+- [Deployment](#deployment)
+    - [Cloning and Running the Application](#cloning-and-running-the-application)
+- [Testing](#testing)
+    - [Unfixed Bugs](#unfixed-bugs)
+    - [Improvement Suggestions](#improvement-suggestions)
+- [Features left to implement](#features-left-to-implement)
+- [Crediting sources](#crediting-sources)
+- [Technologies Used](#technologies-used)
+    - [Tools](#tools)
+    - [Programming Languages](#programming-languages)
+    - [Frameworks and Libraries](#frameworks-and-libraries)
+    - [Resources](#resources)
+    - [AI Assistance](#ai-assistance)
+    - [Development Tools](#development-tools)
+
+
+
+
+
+
 # Introduction
 
 The Wellbeing Hub is designed to inform individuals about mental health, offering insights on how to recognize common issues and manage stress for themselves or others. This welcoming webpage aims to provide accessible, beginner-friendly information on mental health within a supportive and organized layout.
