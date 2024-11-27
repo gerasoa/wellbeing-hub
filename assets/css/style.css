@@ -60,10 +60,12 @@ body .btn:hover {
   border-color: white;      
 }
 .navbar-brand{
-  /* font-family: var(--tertiary-font);  */
+  font-family: var(--primary-font);
   font-weight: 600;
   font-style: normal;
-  /* font-size: 40px; */
+  color: white;
+}
+.navbar-brand:hover{
   color: white;
 }
 
