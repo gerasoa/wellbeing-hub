@@ -162,6 +162,11 @@ This included regular debugging and testing using the Dev Tools as ptovided with
 ![CSS Validator](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/html-lighthouse.png)
 
 
+## Unfixed Bugs
+
+There is a need to improve the performance on mobile devices. This includes optimizing Hero image and reducing load times.
+
+
 ---
 # Deploy
 ## Cloning and Running the Application
@@ -199,8 +204,6 @@ For a better development experience, you can use the Live Server extension in Vi
 
 2. **Run Live Server**
     Right-click on the `index.html` file and select "Open with Live Server". This will start a local server and open the application in your default web browser.
-
-By following these steps, you will be able to clone and run the Wellbeing Hub application locally on your machine.
 
 
 # Features left to implement
