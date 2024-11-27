@@ -137,6 +137,44 @@ Desktop Wireframe
 ![Desktop wireframe](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/desktop.png)
 
 ---
+# Deployment
+## Cloning and Running the Application
+
+To clone and run the Wellbeing Hub application locally, follow these steps:
+
+### Steps
+
+1. **Clone the Repository**
+    Open your terminal and run the following command to clone the repository:
+    ```bash
+    git clone https://github.com/gerasoa/wellbeing-hub.git
+    ```
+
+2. **Navigate to the Project Directory**
+    Change your working directory to the cloned repository:
+    ```bash
+    cd wellbeing-hub
+    ```
+
+3. **Open the Project in Your Code Editor**
+    Open the project in your preferred code editor, such as Visual Studio Code:
+    ```bash
+    code .
+    ```
+
+4. **Open the HTML File in a Browser**
+    Locate the `index.html` file in the project directory and open it in your web browser to view the application.
+
+### Optional: Using Live Server
+For a better development experience, you can use the Live Server extension in Visual Studio Code to serve the application locally.
+
+1. **Install Live Server Extension**
+    Install the Live Server extension from the Visual Studio Code marketplace.
+
+2. **Run Live Server**
+    Right-click on the `index.html` file and select "Open with Live Server". This will start a local server and open the application in your default web browser.
+
+---
 # Testing
 
 Testing and validation os the website was carried out throughout the course of the project.
@@ -174,42 +212,7 @@ Another area for improvement is the contrast between the hero image and the text
 
 
 ---
-# Deploy
-## Cloning and Running the Application
 
-To clone and run the Wellbeing Hub application locally, follow these steps:
-
-### Steps
-
-1. **Clone the Repository**
-    Open your terminal and run the following command to clone the repository:
-    ```bash
-    git clone https://github.com/gerasoa/wellbeing-hub.git
-    ```
-
-2. **Navigate to the Project Directory**
-    Change your working directory to the cloned repository:
-    ```bash
-    cd wellbeing-hub
-    ```
-
-3. **Open the Project in Your Code Editor**
-    Open the project in your preferred code editor, such as Visual Studio Code:
-    ```bash
-    code .
-    ```
-
-4. **Open the HTML File in a Browser**
-    Locate the `index.html` file in the project directory and open it in your web browser to view the application.
-
-### Optional: Using Live Server
-For a better development experience, you can use the Live Server extension in Visual Studio Code to serve the application locally.
-
-1. **Install Live Server Extension**
-    Install the Live Server extension from the Visual Studio Code marketplace.
-
-2. **Run Live Server**
-    Right-click on the `index.html` file and select "Open with Live Server". This will start a local server and open the application in your default web browser.
 
 
 # Features left to implement
