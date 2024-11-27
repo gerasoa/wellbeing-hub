@@ -157,6 +157,11 @@ This included regular debugging and testing using the Dev Tools as ptovided with
 ![CSS Validator](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/html-success.png)
 
 
+[Lighthouse](https://developer.chrome.com/docs/lighthouse/overview)
+
+![CSS Validator](https://github.com/gerasoa/wellbeing-hub/blob/main/assets/images/docs/html-lighthouse.png)
+
+
 ---
 # Deploy
 ## Cloning and Running the Application
