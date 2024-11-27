@@ -36,10 +36,6 @@
     - [Development Tools](#development-tools)
 
 
-
-
-
-
 # Introduction
 
 The Wellbeing Hub is designed to inform individuals about mental health, offering insights on how to recognize common issues and manage stress for themselves or others. This welcoming webpage aims to provide accessible, beginner-friendly information on mental health within a supportive and organized layout.
@@ -264,8 +260,7 @@ A dedicated section for meditation and mindfulness resources can be added. This 
 ---
 
 # Crediting sources
-- [Sanctuary](https://www.sanctuary.co.uk/) 
-- [Everyday Speech](https://www.youtube.com/@EverydaySpeech)
+- [Everyday Speech](https://www.youtube.com/@EverydaySpeech):For additional videos and support.
 - [Sanctuary](https://www.sanctuary.co.uk/): For additional resources and support.
 - [YouTube](https://www.youtube.com/): For sourcing videos and thumbnails.
 - [NHS - Five Steps to Mental Wellbeing](https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/): For practical steps to improve mental well-being.
