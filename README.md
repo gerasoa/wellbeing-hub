@@ -166,6 +166,12 @@ This included regular debugging and testing using the Dev Tools as ptovided with
 
 There is a need to improve the performance on mobile devices. This includes optimizing Hero image and reducing load times.
 
+## Improvement Suggestions
+
+One area for improvement is the color scheme of the buttons on the site. Currently, the buttons use very strong colors, which can be overwhelming for some users. 
+
+Another area for improvement is the contrast between the hero image and the text overlay.
+
 
 ---
 # Deploy
