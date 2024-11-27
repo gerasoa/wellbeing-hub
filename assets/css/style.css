@@ -8,13 +8,14 @@
   /* main elements like headers, primary action buttons, and important links */
   --primary-color: #007bff; /* Calm blue */
   
-  /* supporting elements like secondary buttons, less important links, messages and borders */
-  /* --secondary-color: #28a745; Balanced green */
+  /* Introspective purple */
+  --tertiary-color: #6f42c1; 
   
-  --tertiary-color: #6f42c1; /* Introspective purple */
-  
-  --background-color: #f8f9fa; /* Light gray for the background */
-  --text-color: #343a40; /* Dark gray for the text */
+  /* Light gray for the background */
+  --background-color: #f8f9fa; 
+
+  /* Dark gray for the text */
+  --text-color: #343a40; 
 }
 
 /* Global */
@@ -37,8 +38,8 @@ body .btn {
   border-color: var(--tertiary-color);
   color: white;
   opacity: 0.7;
-  padding: 10px 20px; /* Adjust the size of the button */
-  font-size: 0.9rem; /* Adjust the font size */
+  padding: 5px 10px; /* Adjust the size of the button */
+  font-size: 1.2rem; /* Adjust the font size */
   border-radius: 5px; /* Optional: Add rounded corners */
 }
 body .btn:hover {
@@ -47,6 +48,10 @@ body .btn:hover {
   color: white;
   opacity: 1;
 }
+.section {
+  padding-top: 59.2px; /*prevent navbar from overlapping content */
+}
+
 
 /* Navbar */
 .navbar {
@@ -69,10 +74,8 @@ body .btn:hover {
   color: white;
 }
 
-.section {
-  padding-top: 59.2px; /*prevent navbar from overlapping content */
-}
 
+/* Footer */
 #footer-page { 
   background-color: var(--primary-color);
   color: white;
@@ -82,133 +85,136 @@ body .btn:hover {
   bottom: 0;
   width: 100%;
 }
-
 #footer-page {
   color: white;
 }
-
 #footer-page a {
   color: white;
   text-decoration: none;
 }
-
 #footer-page a:hover {
   color: #ddd; /* Cor ao passar o mouse, opcional */
 }
 
+
 /* Hero section */
 .hero-section {
-    background-image: url('../images/hero.jpg');
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
-    position: relative;
-  }  
-  .hero-section::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(219, 170, 170, 0.7); /* Ajuste a opacidade conforme necessário */
-    z-index: 1;
-  }
-  
-  .hero-section .container {
-    position: relative;
-    z-index: 2;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
-  }
-  .hero-section p {
-    font-size: 2rem;
+  background-image: url('../images/hero.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  position: relative;
+}  
+.hero-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(219, 170, 170, 0.7); /* Ajuste a opacidade conforme necessário */
+  z-index: 1;
+}  
+.hero-section .container {
+  position: relative;
+  z-index: 2;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+.hero-section p {
+  font-size: 2rem;
+}
+.hero-section .container h1{
+  font-family: var(--tertiary-font);
+  color: white;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2rem;
+}
+
+
+/* Quote card */
+.quote-card {
+  background-color: #D6EAFF;
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}  
+.quote-card .card-body {
+  padding: 20px;
+}  
+.quote-card blockquote {
+  font-style: italic;
+  color: #555;
+}  
+.quote-card .blockquote-footer {
+  font-size: 0.875rem;
+  color: #6c757d;
+}  
+.carousel-fade .carousel-item {
+  transition: opacity 0.5s ease-in-out;
+  opacity: 0;
+}  
+.carousel-fade .carousel-item.active {
+  opacity: 1;
+}
+
+
+/* External Resources */
+.card-body {
+  padding: 1rem;
+}  
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}  
+.card-text {
+  margin-bottom: 1rem;
+}
+
+
+/* Subscribe */
+#subscribe {
+  background-color: #D6EAFF;
+}
+
+/* Help lines */
+#helplines .card img{
+  height: 60px;
+  /* border: 2px solid  red; */
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) {
+  #guide .card {
+    margin-bottom: 20px;
+  }    
+  h2 {
+    font-size: 2rem; 
   }
   .hero-section .container h1{
     font-family: var(--tertiary-font);
-    color: white;
+    font-size: 2.5rem;
+  }
+  .section {
+    padding-top: 59px; /*prevent navbar from overlapping content */
+  }
+}
+
+
+/* Large devices (desktops, 992px and up)  */
+@media screen and  (min-width: 992px) { 
+  h2 {     
+    font-size: 3rem;
+    color: var(--primary-color);       
+  } 
+  .hero-section .container h1{
+    font-family: var(--tertiary-font);
+    color:green;
     font-weight: 400;
     font-style: normal;
-    font-size: 2rem;
+    font-size: 4em;
   }
-  /* Quote card */
-    .quote-card {
-    /* background-color: #f8f9fa; */
-    background-color: #D6EAFF;
-    border: none;
-    /* border-left: 5px solid #007bff; */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  }  
-  .quote-card .card-body {
-    padding: 20px;
-  }  
-  .quote-card blockquote {
-    font-style: italic;
-    color: #555;
-  }  
-  .quote-card .blockquote-footer {
-    font-size: 0.875rem;
-    color: #6c757d;
-  }  
-  .carousel-fade .carousel-item {
-    transition: opacity 0.5s ease-in-out;
-    opacity: 0;
-  }  
-  .carousel-fade .carousel-item.active {
-    opacity: 1;
-  }
-
-  /* External Resources */
-  .card-body {
-    padding: 1rem;
-  }  
-  .card-title {
-    font-size: 1.25rem;
-    font-weight: bold;
-  }  
-  .card-text {
-    margin-bottom: 1rem;
-  }
-
-  #subscribe {
-    background-color: #D6EAFF;
-  }
-
-  #helplines .card img{
-    height: 60px;
-    /* border: 2px solid  red; */
-  }
-
-  /* Medium devices (tablets, 768px and up) */
-  @media screen and (min-width: 768px) {
-    #guide .card {
-      margin-bottom: 20px;
-    }    
-    h2 {
-      font-size: 2rem; 
-    }
-    .hero-section .container h1{
-      font-family: var(--tertiary-font);
-      font-size: 2.5rem;
-    }
-    .section {
-      padding-top: 59px; /*prevent navbar from overlapping content */
-    }
-  }
-
-  /* Large devices (desktops, 992px and up)  */
-  @media screen and  (min-width: 992px) { 
-    h2 {     
-      font-size: 3rem;
-      color: var(--primary-color);       
-    } 
-    .hero-section .container h1{
-      font-family: var(--tertiary-font);
-      color:green;
-      font-weight: 400;
-      font-style: normal;
-      font-size: 4em;
-    }
-  }
+}
 
 
   
